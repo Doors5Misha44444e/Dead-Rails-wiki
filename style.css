@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+.err {
+    border-radius: 5px;
+    width: 250px;
+    height: 140px;
+}
+
+header {
+
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.red {
+    font-family: Rubik Wet Paint;
+
+    font-weight: 400;
+    font-size: 64px;
+    color: #c52517;
+}
+
+body {
+    background-color: #2B00FF;
+    margin: 5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-family: Rubik Wet Paint;
+    text-decoration: none;
+    font-size: 32px;
+    background-color: #D9D9D9;
+
+}
+
+.wwww {
+
+    background-color: #0f4;
+
+
+
+
+
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #0400ff;
+    font-family: Rubik Wet Paint;
+
+
+}
+
+.ttttttttttttt {
+    font-weight: 400;
+    font-size: 32px;
+    color: rgba(4, 0, 255, 0.93);
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+
+
+}
+
+.content-left {
+    width: 50%;
+
+
+
+}
+
+.content-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.erm {
+    font-weight: 400;
+    font-size: 100%;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #ff080c;
+
+    font-family: Rubik Wet Paint;
+
+
+
+}
+
+.te {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+
+    border-radius: 38px;
+}
+
+h3 {
+    font-family: Rubik Wet Paint;
+    text-align: center;
+    font-weight: 400;
+    font-size: 48px;
+    color: #ff0004;
+}
+
+.can {
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Rubik Wet Paint;
+}
+
+
+
+
+
+
+.errorserrrrrrr {
+    font-family: Rubik Wet Paint;
+   
+    font-size: 24px;
+
+
+    color: #b2b8b0;
+    text-decoration: none;
+
+}
+
+
+b {
+    font-family: sans-serif;
+
+
+
+}
+
+footer {
+    background-color: aqua;
+padding: 10px;
+
+
+}
+
+p {
+    font-size: 30px;
+
+
+
+}
+
+.oooh {
+    font-size: 30px;
+    text-decoration: wavy;
+    color: #ff0004;
+
+}
